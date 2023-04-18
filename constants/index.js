@@ -27,9 +27,9 @@ export const exploreWorlds = [
 ];
 
 export const startingFeatures = [
-  'Dress code is "any"',
-  'Remember to bring your phone with your self',
-  'Important thing have fun :)',
+  'Dress code is "as per convinence"',
+  'Blessings only',
+  'Important thing is to have fun :)',
 ];
 
 export const newFeatures = [
@@ -43,7 +43,7 @@ export const newFeatures = [
     imgUrl: '/headset.svg',
     
     subtitle:
-        'Date : 16 june, 2023 at 8:00 PM',
+        'Date : 16 june, 2023 at 7:00 PM',
   },
 ];
 

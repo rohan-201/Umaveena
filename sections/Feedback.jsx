@@ -29,9 +29,10 @@ const Feedback = () => (
         </div>
 
         <p className="mt-[24px] font-normal sm:text-[24px] text-[18px] sm:leading-[45.6px] leading-[39.6px] text-white">
-          “With the development of today's technology, metaverse is very
-          useful for today's work, or can be called web 3.0. by using
-          metaverse you can use it as anything”
+          “दो सितारों का ज़मीन पर है मिलन आज की रात, 
+  मुस्कुराता है उम्मीदों का चमन आज की रात,
+   रंग लाई है मेरे दिल की लगन आज की रात,
+सारी दुनिया नज़र आती है दुल्हन आज की रात”
         </p>
       </motion.div>
 
