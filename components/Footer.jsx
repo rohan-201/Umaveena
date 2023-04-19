@@ -29,7 +29,8 @@ const Footer = () => (
             Talk to us
           </span>
         </button>
-        <button type="button" className="flex items-center h-fit py-4 px-6 bg-[#25618B] rounded-[32px] gap-[12px]">
+        <a href="https://maker3.shop">
+        <button  type="button"  className="flex items-center h-fit py-4 px-6 bg-[#25618B] rounded-[32px] gap-[12px]">
           <img
             src="/headset.svg"
             alt="headset"
@@ -39,6 +40,7 @@ const Footer = () => (
             Invitation Card
           </span>
         </button>
+        </a>
       </div>
 
       <div className="flex flex-col">
