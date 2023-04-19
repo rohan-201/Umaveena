@@ -43,7 +43,7 @@ export const newFeatures = [
     imgUrl: '/headset.svg',
     
     subtitle:
-        'Date : 16 june, 2023 at 7:00 PM',
+        'Date : 15 june, 2023 at 7:00 PM',
   },
 ];
 
