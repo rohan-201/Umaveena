@@ -1,4 +1,4 @@
-import { Footer, Navbar } from '../components';
+import { Footer, InsightCard, Navbar } from '../components';
 import { About, Explore, Feedback, GetStarted, Hero, Insights, WhatsNew, World } from '../sections';
 
 const Home = () => (
@@ -17,7 +17,7 @@ const Home = () => (
     </div>
     <World />
     <div className="relative">
-      
+      <Insights/>
       <div className="gradient-04 z-0" />
       <Feedback />
     </div>
