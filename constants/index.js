@@ -6,12 +6,12 @@ export const exploreWorlds = [
   },
   {
     id: 'world-2',
-    imgUrl: '/09.JPG',
+    imgUrl: '/10.JPG',
     title: '',
   },
   {
     id: 'world-3',
-    imgUrl: '/10.JPG',
+    imgUrl: '/09.JPG',
     title: '',
   },
   {
