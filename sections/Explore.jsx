@@ -22,7 +22,7 @@ const Explore = () => {
       >
         <TypingText title="| Gallery" textStyles="text-center" />
         <TitleText
-          title={<>Explore photos <br className="md:block hidden " /> Comming soon</>}
+          title={<>Curtain raiser <br className="md:block hidden " /> </>}
           textStyles="text-center"
         />
         

@@ -62,7 +62,7 @@ export const insights = [
   },
   {
     imgUrl: '/g.JPG',
-    title: 'When they came together, destiny changed, new lives were born, a love saga that continues till date.',
+    title: 'When they came together, destiny changed, new lives were born, a love saga that startedd long back continues till date.',
     subtitle:
         '',
   },
